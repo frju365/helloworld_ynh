@@ -37,8 +37,8 @@
                     "en": "Choose a path for HelloWorld",
                     "fr": "Choisissez un chemin pour HelloWorld"
                 },
-                "example": "/helloworld",
-                "default": "/helloworld"
+                "example": "/hello-world",
+                "default": "/hello-world"
             },
             {
                 "name": "is_public",
